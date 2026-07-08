@@ -1,0 +1,19 @@
+# Activity 0.1
+Start
+Read a, b
+c = a + b
+Print or display c
+Stop
+# Activity 0.2
+Start
+Enter the first number. Store it as num 1.
+Enter the second number. Store it as num 2.
+Compute sum = num1 + num2.
+Display sum.
+Stop
+# Activity 0.3
+Start
+Enter the grade. Store it as grade.
+Check if grade is 60 or above.
+If yes, display "Passed".
+If no, display "Failed".
