@@ -11,7 +11,7 @@ E --> F[End]
 ```mermaid
 flowchart TD
 A([Start]) --> B[/Input 1/]
-B --> C{/Input 2/}
+B --> C[/Input 2/]
 C --> D[sum + num1 + num2]
 D --> E[/Input sum/]
 E --> F[End]
